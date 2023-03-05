@@ -21,7 +21,7 @@
 header.header>div.container>nav.nav>ul.nav__list>a.nav__logo-link>img^li.nav__item*4>a.nav__link^a.nav__basket-link
 ```
 
-![Banner](.img/banner.png)
+![Banner](./img/banner.png)
 ```
 section.banner-section>div.container>img+div.banner__info>p.banner__category+h2.banner_title+a.banner-link
 ```
