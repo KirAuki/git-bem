@@ -18,7 +18,7 @@
 
 ![Header](./img/header.png)
 ```
-header.header>div.container>a.logo-link>img.logo+nav.nav>ul.nav__list>li.nav__item*4>a.nav__link^a.nav__basket>img.basket__img
+header.header>div.container>a.logo-link>img.logo^nav.nav>ul.nav__list>li.nav__item*4>a.nav__link^a.nav__basket>img.basket__img
 ```
 
 ![Banner](./img/banner.png)
