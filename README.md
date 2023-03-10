@@ -18,19 +18,19 @@
 
 ![Header](./img/header.png)
 ```
-header.header>div.container>a.logo-link>img.logo+nav.nav>ul.nav__list>a.nav__logo-link>img^li.nav__item*4>a.nav__link^a.nav__basket-link>img
+header.header>div.container>a.logo-link>img.logo+nav.nav>ul.nav__list>li.nav__item*4>a.nav__link^a.nav__basket>img.basket__img
 ```
 
 ![Banner](./img/banner.png)
 ```
-section.banner-section>div.container>div.banner>p.banner__category+h2.banner__title+a.banner-link^img.banner-img
+section.banner-section>div.container>div.banner>p.banner__category+h2.banner__title+a.banner__link^img.banner__img
 ```
 ![Card](./img/card.png)
 ```
-section.card-section>div.container>div.card>img.card-img+p.card__title+p.card__price
+section.card-section>div.container>div.card>img.card__img+p.card__title+p.card__price
 ```
 
 ![Form](./img/form.png)
 ```
-section.form-section>form.form>fieldset.form-contact>p.form-contact__title+p.form-contact__subtitle^^div.form__container>label.form-label*5>input.form-input^button.submit
+section.form-section>form.form>p.form__title+p.form__subtitle^^div.form__container>label.form__label*5>input.form__input^button.form__submit
 ```
