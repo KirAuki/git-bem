@@ -18,16 +18,16 @@
 
 ![Header](./img/header.png)
 ```
-header.header>div.container>a.logo-link>img+nav.nav>ul.nav__list>a.nav__logo-link>img^li.nav__item*4>a.nav__link^a.nav__basket-link>img
+header.header>div.container>a.logo-link>img.logo+nav.nav>ul.nav__list>a.nav__logo-link>img^li.nav__item*4>a.nav__link^a.nav__basket-link>img
 ```
 
 ![Banner](./img/banner.png)
 ```
-section.banner-section>div.container>div.banner>p.banner__category+h2.banner__title+a.banner-link^img
+section.banner-section>div.container>div.banner>p.banner__category+h2.banner__title+a.banner-link^img.banner-img
 ```
-![Cards](./img/cards.png)
+![Card](./img/card.png)
 ```
-section.cards-section>div.container>ul.cards>li.cards__item.item*6>img+p.item__title+p.item__price
+section.card-section>div.container>div.card>img.card-img+p.card__title+p.card__price
 ```
 
 ![Form](./img/form.png)
